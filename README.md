@@ -91,8 +91,6 @@ Configure your secrets provider in `appsettings.json`:
 - **Minor** - New features, backward compatible
 - **Patch** - Bug fixes, backward compatible
 
-Given its foundational role, major version bumps are rare and carefully considered.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
